@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+movie-recomender-system.ipynb
+tmdb_5000_credits.csv
+tmdb_5000_movies.csv
+simalarity.pkl
